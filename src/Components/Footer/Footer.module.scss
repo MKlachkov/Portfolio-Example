@@ -1,0 +1,28 @@
+.footer {
+  background: #121214;
+  color: #a6a8ad;
+  padding-top: 48px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  padding-bottom: 24px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 83px;
+}
+.row__title {
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+.row__item {
+  margin-top: 11px;
+}
+.footer__bottom {
+  display: flex;
+  column-gap: 24px;
+}

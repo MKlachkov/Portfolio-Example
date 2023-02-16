@@ -1,0 +1,52 @@
+.header {
+  background-color: #222;
+}
+.nav {
+  padding: 20px 19px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  column-gap: 29px;
+}
+.button__wb {
+  color: #a6a8ad;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  background: initial;
+}
+
+.button_b {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 32px;
+  color: #121214;
+  width: 95px;
+  height: 35px;
+}
+.title {
+  max-width: 460px;
+  letter-spacing: 1.08px;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 72px;
+}
+.subTitle {
+  padding-top: 26px;
+  max-width: 420px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  padding-bottom: 44px;
+}
+.button_tr {
+  background: #0033ff;
+  border-radius: 8px;
+  width: 125px;
+  height: 56px;
+  color: #fff;
+}

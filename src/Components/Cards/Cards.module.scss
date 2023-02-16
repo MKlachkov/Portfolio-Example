@@ -1,0 +1,38 @@
+.cards {
+  background: #121214;
+  padding: 120px 0px;
+  color: #fff;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.card {
+  padding: 32px;
+  background: #f8f8f8;
+  border-radius: 8px;
+}
+.cardImage {
+  width: 223px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  height: 223px;
+  margin-bottom: 30px;
+}
+.card__text {
+  max-width: 285px;
+  margin-bottom: 16px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.3px;
+  color: #000000;
+}
+.card__name {
+  color: #767676;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
